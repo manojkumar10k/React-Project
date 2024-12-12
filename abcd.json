@@ -1,0 +1,206 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "image": "../images/product-1.png",
+      "Title": "Nordic Chair",
+      "Price": "300$"
+    },
+    {
+      "id": "2",
+      "image": "../images/product-2.png",
+      "Title": "Chair-Living",
+      "Price": "400$"
+    },
+    {
+      "id": "3",
+      "image": "../images/product-3.png",
+      "Title": "Bubble Chair",
+      "Price": "350$"
+    }
+  ],
+  "productShop": [
+    {
+      "id": "1",
+      "image": "../images/product-1.png",
+      "Title": "Nordic ",
+      "Price": "300$",
+      "quantity": 4
+    },
+    {
+      "id": "2",
+      "image": "../images/product-2.png",
+      "Title": "Nordic",
+      "Price": "400$",
+      "quantity": 2
+    },
+    {
+      "id": "3",
+      "image": "../images/product-3.png",
+      "Title": "Nordic Chair",
+      "Price": "350$",
+      "quantity": 2
+    },
+    {
+      "id": "4",
+      "image": "../images/Chair-Texture-22.png",
+      "Title": "Texture Chair",
+      "Price": "300$"
+    },
+    {
+      "image": "../images/Rocking-Chair-14.png",
+      "Title": "Rocking Chair",
+      "Price": "300$",
+      "id": "5",
+      "quantity": 2
+    },
+    {
+      "id": "6",
+      "image": "../images/bedside-Tables-5.png",
+      "Title": "Bedside Tables",
+      "Price": "800$",
+      "quantity": 2
+    },
+    {
+      "id": "7",
+      "image": "../images/couch-Chair-6.png",
+      "Title": "Couch Chair",
+      "Price": "700$"
+    },
+    {
+      "id": "8",
+      "image": "../images/gaming-Chair-9.png",
+      "Title": "Gaming-Chair",
+      "Price": "1000$"
+    },
+    {
+      "id": "9",
+      "image": "../images/cushion-Garden-8.png",
+      "Title": "Cushion Garden",
+      "Price": "600$",
+      "quantity": 3
+    },
+    {
+      "id": "10",
+      "image": "../images/gray-Armchai-11.png",
+      "Title": "Gray Armchai",
+      "Price": "900$"
+    },
+    {
+      "id": "11",
+      "image": "../images/Nordic-Sofa-12.png",
+      "Title": "Nordic Sofa",
+      "Price": "800$"
+    },
+    {
+      "id": "12",
+      "image": "../images/Rocking-Chair-14.png",
+      "Title": "Rocking Chair",
+      "Price": "500$"
+    },
+    {
+      "id": "13",
+      "image": "../images/Bean-Bag-13.png",
+      "Title": "Bean Bag",
+      "Price": "300$"
+    },
+    {
+      "id": "14",
+      "image": "../images/Bubble-Chair-15.png",
+      "Title": "Bubble Chair",
+      "Price": "400$"
+    },
+    {
+      "id": "15",
+      "image": "../images/Chair-Living16.png",
+      "Title": "Chair Living",
+      "Price": "500$"
+    },
+    {
+      "id": "16",
+      "image": "../images/Wire-Chair-17.png",
+      "Title": "Nordic Chair",
+      "Price": "80$"
+    },
+    {
+      "id": "17",
+      "image": "../images/Table-Chair-18.png",
+      "Title": "Table Chair",
+      "Price": "1200$"
+    },
+    {
+      "id": "18",
+      "image": "../images/Eames-Lounge-18.png",
+      "Title": "Eames Lounge",
+      "Price": "150$"
+    },
+    {
+      "id": "19",
+      "image": "../images/Eames-Lounge-19.png",
+      "Title": "Eames Lounge",
+      "Price": "700$"
+    },
+    {
+      "id": "20",
+      "image": "../images/Brown-Leathe-20.png",
+      "Title": "Brown Leathe",
+      "Price": "800$"
+    },
+    {
+      "id": "21",
+      "image": "../images/Chair-Texture-22.png",
+      "Title": "Texture Chair",
+      "Price": "600$"
+    },
+    {
+      "id": "22",
+      "image": "../images/Eames-Lounge-Chair-21.png",
+      "Title": "Eames Lounge Chair",
+      "Price": "700$"
+    },
+    {
+      "id": "23",
+      "image": "../images/White-Chair-23.png",
+      "Title": "White Chair",
+      "Price": "300$"
+    },
+    {
+      "id": "77db",
+      "Title": "Teal Ottoman",
+      "Price": "400$",
+      "image": "../images/Teal-Ottoman-24.png"
+    },
+    {
+      "id": "f8bd",
+      "Title": "Chair Throne",
+      "Price": "200$",
+      "image": "../images/Chair-Throne-25.png"
+    },
+    {
+      "id": "721a",
+      "Title": "Folding Chair",
+      "Price": "500$",
+      "image": "../images/Folding-Chair-26.png"
+    },
+    {
+      "id": "fe6e",
+      "Title": "Beach Chair",
+      "Price": "100$",
+      "image": "../images/Beach-Chair-27.png",
+      "quantity": 2
+    },
+    {
+      "id": "fe6j",
+      "Title": "Swing Hammock Chair",
+      "Price": "200$",
+      "image": "../images/Swing-Hammock-Chair-28.png",
+      "quantity": 2
+    },
+    {
+      "id": "c9b9",
+      "Title": "Nordic  jjj",
+      "Price": "10",
+      "image": "../images/product-2.png"
+    }
+  ]
+}

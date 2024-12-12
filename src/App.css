@@ -1,0 +1,42 @@
+.form-container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+.image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(../images/Swing-Hammock-Chair-28.png);
+}
+.cartCount{
+    color: rgb(254, 254, 254);
+    font-weight: bold;
+    
+    text-decoration: none;
+    animation: mymove 2s;
+    animation-timing-function: linear;
+    position: relative;
+}
+.cart-box{
+    animation: mymove2 2s;
+    animation-timing-function: linear;
+    position: relative;
+}
+
+/* div {
+    width: 100px;
+    height: 100px;
+    background: red;
+    
+    
+  } */
+  
+  @keyframes mymove {
+    from {top: -50px;}
+    to {top: 0px;}
+  }
+  @keyframes mymove2 {
+    from {left: -50px;}
+    to {left: 0px;}
+  }
